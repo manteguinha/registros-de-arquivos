@@ -1,4 +1,4 @@
-Este codigo tem as seguintes funcões:
+Esse codigo tem as seguintes funcões:
 
 1 – Incluir questionários.
 
